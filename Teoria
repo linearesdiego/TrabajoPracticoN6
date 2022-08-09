@@ -1,0 +1,25 @@
+
+Explica con tus palabras, las siguientes preguntas.
+
+- Que es un numero Natural?
+los numeros naturales son los que sirven para contar o para realizar operaciones matematicas 
+ejemplo . 1,2,3,4,5,6,etc
+
+- Que es una estructura de datos?
+
+
+- Que es map(), reduce(), filter() y ForEacH() 
+map() : El map llama a una funcion callback por cada elemento y devuelve un nuevo array.
+
+reduce() : El reduce se utiliza para realizar acumuladores en cada elementos del arreglo 
+
+filter(): Como lo dice la palabra este metodo filtra y devuelve un arreglo con los elementos filtrado
+
+ForEach(): Es parecido al .map() ejecuta un callback por cada elemento del arreglo
+
+- Explica una situacion en donde usarias cada una de las estructuras mencionadas anteriormente.
+
+.map() : realizar operaciones matematicas 
+.reduce():para realizar un acumulador 
+.filter():para realizar un filtrado por genero de peliculas
+.ForEach(): para leer cada elemento del arreglo
